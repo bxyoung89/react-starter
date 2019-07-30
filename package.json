@@ -1,0 +1,26 @@
+{
+  "name": "react-starter",
+  "version": "0.0.1",
+  "description": "Starter project with the tooling how I want it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bxyoung89/react-starter.git"
+  },
+  "author": "Broderick Young",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bxyoung89/react-starter/issues"
+  },
+  "homepage": "https://github.com/bxyoung89/react-starter#readme",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "webpack": "^4.38.0",
+    "webpack-cli": "^3.3.6"
+  }
+}
